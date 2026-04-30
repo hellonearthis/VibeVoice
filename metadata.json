@@ -1,0 +1,6 @@
+{
+  "name": "VibeVoice",
+  "description": "Audio intelligence dashboard for processing and analyzing audio with high accuracy transcription and speaker diarization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
